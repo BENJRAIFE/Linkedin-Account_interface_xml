@@ -1,0 +1,14 @@
+<resources>
+    <!--developper exercice-->
+    <string name="nom">Benjraife Bouchra</string>
+    <string name="job">Senior mobile developer</string>
+    <string name="followers">3000 followers</string>
+    <string name="following">900 following</string>
+    <string name="mail">emailName@gmail.com</string>
+    <string name="mobile">123456789</string>
+    <string name="face">www.facebook.com</string>
+    <string name="twit">Twiter account </string>
+    <!--developper exercice-->
+    <string name="insta">Instagram</string>
+    <string name="like">1000 likes</string>
+</resources>
